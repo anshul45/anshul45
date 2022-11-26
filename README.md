@@ -17,7 +17,7 @@ hi, i'm Anshul Garwal, a passionate full stack web developer
 <br/>
 
 📈 my github stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anshul45&show_icons=true&theme=gruvbox"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anshul45&show_icons=true&theme=gotham"/>
 
             
            
