@@ -31,7 +31,8 @@ hi, i'm Anshul Garwal, a passionate full stack web developer
 ![](https://github-readme-stats.vercel.app/api?username=anshul45&show_icons=true&theme=gotham)<br/>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshul45&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul45&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul45&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 ---
 
