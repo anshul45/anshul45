@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/anshul-garwal-aaa161252/">
   <img align="left" alt="Anshul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/>
 <br/>
 
 hi, i'm Anshul Garwal, a passionate full stack web developer
