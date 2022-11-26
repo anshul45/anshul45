@@ -28,6 +28,10 @@ hi, i'm Anshul Garwal, a passionate full stack web developer
 📈 my github stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anshul45&show_icons=true&theme=gotham"/>
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=anshul45&icon=0&color=0)](https://visitcount.itsvg.in)
+
             
            
           
