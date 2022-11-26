@@ -14,6 +14,7 @@ hi, i'm Anshul Garwal, a passionate full stack web developer
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="TailwindCss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br />
+<br/>
 
 📈 my github stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anshul45&show_icons=true&theme=gruvbox"/>
