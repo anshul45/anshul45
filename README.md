@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-hi, i'm Anshul Garwal, a passionate full stack web developer
+hi, i'm Anshul Garwal, a passionate Frontend web developer
 
 ---
 ### 🧰 Languages and Tools
